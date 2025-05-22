@@ -2,20 +2,20 @@
 using namespace std;
 
 int main() {
-    string kalimat;
-    int i;
+//     string kalimat;
+//     int i;
 
-    system ("CLS");
+//     system ("CLS");
 
-    cout << "Masukkan kalimat : ";
-    getline (cin, kalimat);
+//     cout << "Masukkan kalimat : ";
+//     getline (cin, kalimat);
 
-    // i m a m
-    for(i = 0; i < kalimat.length(); i++) {
-        kalimat[i] = toupper(kalimat[i]);
-    }
+//     // i m a m
+//     for(i = 0; i < kalimat.length(); i++) {
+//         kalimat[i] = toupper(kalimat[i]);
+//     }
 
-    cout << "Kalimat dalam huruf kapital : " << kalimat << endl;
+//     cout << "Kalimat dalam huruf kapital : " << kalimat << endl;
 
-    return 0;
-}
+//     return 0;
+// }
