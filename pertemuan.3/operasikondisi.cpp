@@ -9,19 +9,19 @@ int main () {
     cout <<"masukkan nilai : ";
     cin >> nilai;
 
-    // if statement
+    // if statement, yaitu operasi yang memiliki satu kondisi
     // if (nilai <= 65) {
     //     cout << "anda tidak lulus!" << endl;
     // }
 
-    // if-else statement
+    // if-else statement, yaitu operasi yang memiliki dua kondisi
     // if (nilai <= 65) {
     //     cout << "anda tidak lulus! " <<endl; 
     // } else {
     //     cout << "anda lulus!" << endl;
     // }
 
-    //if-else-if statement 
+    //if-else-if statement, yaitu operasi yang memiliki tiga kondisi
     // if (nilai == 100) {
     //     cout << "anda kece" << endl;
     //     } else if (nilai <=65){
@@ -30,7 +30,7 @@ int main () {
     //         cout << "anda lulus!"<< endl;
     //     }
 
-    // nested if
+    // nested if, yaitu operasi kondisi dalam operasi kondisi itu sendiri
     // if (nilai<=65) {
     //     cout << "anda tidak lulus!"<<endl;
     // } else {
@@ -41,7 +41,7 @@ int main () {
     //     }
     // }
 
-    // switch case
+    // switch case, yaitu operasi kondisi dengan keluar apabila menerima input yang tepat dari user
     // switch (nilai) {
     //     case 1: 
     //         cout << "Senin" << endl;
@@ -69,7 +69,7 @@ int main () {
     //         break; 
     // }
 
-    //switch range 
+    //switch range ,yaitu operasi kondisi yang keluar apabila user memasukkan sebuah bilangan yang ada diantara dua bilangan
     // switch (nilai){
     //     case 85 ... 100 : cout << "A" << endl; break;
     //     case 80 ... 84 : cout << "B" << endl; break;
