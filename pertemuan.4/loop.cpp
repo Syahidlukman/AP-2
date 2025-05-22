@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    // goto label
+    // goto label,yaitu operator yang bisa mengatur perpindahan output
     // helo world, fasilkom TI, ilmu komputer,IKLC
     // -> hello world, IKLC, ilmu komputer,fasilkom - ti
 
@@ -30,7 +30,8 @@ int main() {
     //     goto genap;
     // } 
 
-    // statement while
+    // statement while,yaitu operator yang Menjalankan blok kode selama kondisi true.
+
     // int i = 1;
     // while (i <= 10){
     //     if (i % 2 == 0){
@@ -38,20 +39,20 @@ int main() {
     //     } i++;
     // }
 
-    // statement DO-while
+    // statement DO-while,yaitu operator yang Menjalankan blok kode setidaknya sekali, kemudian memeriksa kondisi.
     // int i = 1;
     // do{
     //     cout << i << endl;
     // } while(i <= 0);
 
-    // statement for 
+    // statement for, yaitu operator yang Menjalankan blok kode sejumlah iterasi yang telah ditentukan
     // for (inisialisasi, kondisi, increase)
 
     // for (int i = 1; 1 <= 5; i+= 2){
     //     cout << "hello world" << endl;
     // }
 
-    // // nested for 
+    // // nested for,yaitu operator yang Menggunakan for di dalam for loop lainnya untuk iterasi multidimensi.
     // for (int i = 1; i <= 5; i++){
     //     for (int j = 1; j <= 5; j++){
     //         cout << " ";
