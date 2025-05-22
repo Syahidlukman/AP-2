@@ -16,14 +16,14 @@ int main (){
     //  cout << karyawan << endl;
     // }
 
-    // add data to vector
+    // add data to vector,yaitu cara menambah data ke dalam suatu vector
     // nama_karyawan.push_back("imam");
 
     // for (int i= 0; i < nama_karyawan.size(); i++){
     //     cout << nama_karyawan[i] << endl;
     // }
 
-    // delete data from vector
+    // delete data from vector,yaitu cara untuk menghapus sebuah data dalam vector
     // nama_karyawan.pop_back();
     // nama_karyawan.erase(nama_karyawan.begin() + 3);
 
