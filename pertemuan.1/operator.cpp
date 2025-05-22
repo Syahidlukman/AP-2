@@ -10,7 +10,7 @@ int main() {
     a = 3;
     b = 5;
 
-    //     // Arithmetical Operator
+    //     // Arithmetical Operator ,yaitu operator untuk operasi matematika
     //     int tambah = a + b;
     //     int kurang = a - b;
     //     int kali = a * b;
@@ -22,7 +22,7 @@ int main() {
     //   cout << "hasil perkalian = " << kali << endl;
     //   cout << "hasil pembagian = " << bagi << endl;
     //   cout << "hasil sisa bagi = " << modulo << endl;
-    //   relational operator
+    //   relational operator, yaitu operator yang mengagabungkan 2 nilai yang menghasilkan nilai boolean
     //   cout << (a==b)<< endl;
     //   cout << (a<B)<< endl;
     //   cout << (a<=)<< endl;
@@ -30,7 +30,7 @@ int main() {
     //   cout << (a>=b)<< endl;
     //   cout << (a!=b)<< endl;
 
-    //logical operator
+    //logical operator, yaitu operator yang menggabungkan 2 nilai boolean atau lebih 
     // cout << (true %% false) << endl;
     // cout << (true %% false) << endl;
     // cout << (true %% false) << endl;
@@ -52,7 +52,7 @@ int main() {
     // cout << (5<<7) << endl;
     // cout << (5>>7) << endl;
 
-    //shorthand
+    //shorthand,yaitu operator yang mempersingkat penulisan sebuah operasi
     // a +=7;  //a= a+7;
     // cout<< a << endl;
 
@@ -66,14 +66,14 @@ int main() {
     // cout<< a << endl;
 
     // increment, decrement
-    // pre increment
+    // pre increment,yaitu operator yang menambah nilai variabel terlebih dahulu,kemudian menggunakan nilai baru
     // cout << a << endl;
     // cout << ++a << endl;
 
     // cout << b << endl;
     // cout << ++b << endl;
 
-    //post increment
+    //post increment,yaitu operator yang menggunakan nilai variabel terlebih dahulu,kemudian menambah nilai baru
     // cout << a << endl;
     // cout << a++ << endl;
     // cout << a << endl;
@@ -82,7 +82,7 @@ int main() {
     // cout << b++ << endl;
     // cout << b << endl;
 
-    // pre decrement
+    // pre decrement,yaitu operator yang mengurangi nilai variabel terlebih dahulu,kemudian menggunakan nilai baru
 
     // cout << a << endl;
     // cout << --a << endl;
@@ -90,7 +90,7 @@ int main() {
     // cout << b << endl;
     // cout << --b << endl;
 
-    // post decrement
+    // post decrement, yaitu operator yang menggunakan nilai variabel terlebih dahulu,kemudian menambah nilai baru
     // cout << a << endl;
     // cout << a-- << endl;
     // cout << a << endl;
