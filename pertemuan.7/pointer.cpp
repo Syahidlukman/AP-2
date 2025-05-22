@@ -70,10 +70,10 @@ int main(){
     
 
     // dynamic pointer
-    int *ptr = new int;
-    *ptr = 30;
-    cout << "isi variabel ptr " << *ptr << " dan alamat " << &ptr << endl;
+//     int *ptr = new int;
+//     *ptr = 30;
+//     cout << "isi variabel ptr " << *ptr << " dan alamat " << &ptr << endl;
 
-    delete ptr;
-    cout << "isi variabel ptr " << *ptr << " dan alamat " << &ptr << endl;
-}
+//     delete ptr;
+//     cout << "isi variabel ptr " << *ptr << " dan alamat " << &ptr << endl;
+// }
